@@ -2,7 +2,7 @@
 
 ## Úvod
 
-V rámci tohoto úkolu budete mít za úkol vytvořit automatizovaný ETL proces, který bude denně stahovat měnové kurzy **hlavních i ostatních měn** z webových stránek České národní banky (ČNB) a ukládat je ve formátu Parquet.
+V rámci této Case study budete mít za úkol vytvořit automatizovaný ETL proces, který bude denně stahovat měnové kurzy **hlavních i ostatních měn** z webových stránek České národní banky (ČNB) a ukládat je ve formátu Parquet.
 
 ## Zadání
 
